@@ -1,4 +1,3 @@
-The # symbols and ** didn't come through when you pasted. Copy this exactly:
 # Frankly
 
 Frankly is a financial decision-support app for small business owners that shows data quality issues alongside financial metrics. Uncertainty is explicit, not hidden.
@@ -24,4 +23,3 @@ Small business owners make financial decisions on incomplete or error-ridden dat
 - **Frontend:** React 18, Vite, React Router v6, Recharts, plain CSS
 - **Backend:** Node.js, Express, multer, papaparse
 - **No database** — stateless, CSV upload per session
-- 
